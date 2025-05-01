@@ -1,0 +1,7 @@
+<resources>
+    <color name="noir_black">#121212</color>
+    <color name="noir_grey">#2C2C2C</color>
+    <color name="noir_white">#E0E0E0</color>
+    <color name="noir_red">#B00020</color>
+    <color name="noir_shadow">#1A1A1A</color>
+</resources>
